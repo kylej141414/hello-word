@@ -1,2 +1,2 @@
-# hello-word
+# My name is Kyle Johnson
 this is my first repository
